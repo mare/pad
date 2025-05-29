@@ -30,6 +30,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 lang: sl-SI  # Slovenian language code
 locale: sl_SI  # Slovenian locale
 timezone: Europe/Ljubljana  # Slovenian timezone
+date_format: "%d. %B %Y"  # Will display as "20. maj 2024"
 
 
 ## => Author and Social
