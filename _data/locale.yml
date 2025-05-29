@@ -166,4 +166,28 @@ tr: &TR
   EMAIL_US                : "Bize email ile ulaşın."
   COPYRIGHT_DATES         : "2021"
 
+  ## => Slovenian
+########################
+sl: &SL
+  SUBSCRIBE               : "Naročite se"
+  READMORE                : "Preberite več"
+  SEARCH                  : "Iskanje"
+  CANCEL                  : "Prekliči"
+  VIEWS                   : "ogledov"
+  LAST_UPDATED            : "Zadnja posodobitev"
+  PREVIOUS                : "PREJŠNJA"
+  NEXT                    : "NASLEDNJA"
+  ARTICLE_DATE_FORMAT     : "%-d. %B %Y"  # Will display as "20. maj 2024"
+  ARTICLE_LIST_DATE_FORMAT: "%-d. %b"     # "20. maj"
+  STATISTICS              : "[POST_COUNT] objav, [PAGE_COUNT] strani."
+  LICENSE_ANNOUNCE        : "To delo je licencirano pod [LICENSE] licenco."
+  POST_ON_GITHUB          : "Uredi na Githubu"
+  FOLLOW_ME               : "Sledi mi na [NAME]."
+  FOLLOW_US               : "Sledite nam na [NAME]."
+  EMAIL_ME                : "Pošlji mi e-pošto."
+  EMAIL_US                : "Pošljite nam e-pošto."
+  COPYRIGHT_DATES         : "2021"
+
+sl-SI:
+  <<: *SL
 # @end locale config
