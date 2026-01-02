@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>PAD</title>
+    <link href="https://mare.github.io/pad/feed.xml" rel="self" />
+    <link href="https://mare.github.io/pad" />
+    <updated>2024-09-16T13:27:55+02:00</updated>
+    <author>
+        <name>Marko Radovan</name>
+    </author>
+    <id>https://mare.github.io/pad</id>
+
+    <entry>
+        <title>šPAD</title>
+        <author>
+            <name>Marko Radovan</name>
+        </author>
+        <link href="https://mare.github.io/pad/spad/"/>
+        <id>https://mare.github.io/pad/spad/</id>
+        <media:content url="https://mare.github.io/pad/media/posts/28/sPAD_nasl.png" medium="image" />
+
+        <updated>2024-01-27T13:15:46+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://mare.github.io/pad/media/posts/28/sPAD_nasl.png" alt="" />
+                     šPAD 2024 Dogodek bo potekal v sredo, 21. 2. 2023, v modri sobi fakultete. Prijavite se lahko preko spletne prijavnice. Rok za prijavo je 14. 2. 2024. Natisnete si lahko tudi program s povzetki (PDF, 162,5 KB) 8:30–9:00 Prijava udeležencev 9:00–9:20 Pozdravni nagovori 9:20–9:50 Apartheid:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://mare.github.io/pad/media/posts/28/sPAD_nasl.png" class="type:primaryImage" alt="" /></p>
+                <!--
+<h3> šPAD 2024</h3>
+<p class="msg msg--success">Dogodek bo potekal v <strong>sredo, 21. 2. 2023</strong>,<strong> </strong>v <strong>modri sobi </strong>fakultete. Prijavite se lahko preko <a href="https://www.ff.uni-lj.si/prijava-na-studentski-pedagosko-andragoski-dan-spad-2024" title="Spletna prijavnica" target="_blank" rel="noopener noreferrer">spletne prijavnice</a>. Rok za prijavo je <strong>14. 2. 2024</strong>.</p>
+<p class="msg msg--info">Natisnete si lahko tudi program s povzetki (<a href="https://mare.github.io/pad/media/files/spad2024.pdf" download>PDF, 162,5 KB</a>)</p>
+<h3>Program</h3>
+<p> </p>
+<p><strong>8:30–9:00 Prijava udeležencev</strong></p>
+<p><strong>9:00–9:20 Pozdravni nagovori</strong></p>
+<ol>
+<li><strong> Klara Skubic Ermenc</strong>, predstojnica Oddelka za pedagogiko in andragogiko Filozofske fakultete Univerze v Ljubljani</li>
+<li><strong style="font-family: var(--editor-font-family); font-size: inherit;">Dušan Janković</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">, predstavnik v Študentskem svetu Filozofske fakultete Univerze v Ljubljani</span></li>
+<li><strong style="font-family: var(--editor-font-family); font-size: inherit;">Andraž Fink</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">, koordinator programskega in organizacijskega odbora šPAD2024</span></li>
+</ol>
+<p><strong>9:20–9:50 </strong><strong>Apartheid: senčna stran JAR šolstva</strong> – Larisa Komel in Tinkara Majcen</p>
+<p><strong>9:50–10:20 </strong><strong>Dejavniki vključevanja odraslih v izobraževanje v povezavi z miselno naravnanostjo </strong>– Blažka Zalašček</p>
+<p><strong>10:20–10:50 </strong><strong>Potujoča zakladnica zgodb: Razvoj modela družbeno ozaveščenega post-muzeja v kontekstu dolgoživosti</strong> – Mateja Kužner Čelešnik, Lana Rajer, Neža Vadnjal, Lucija Kovač</p>
+<p><strong>10:50–11:10 </strong><em>Odmor s kavo in prigrizki</em></p>
+<p><strong>11:10 – 11:40 </strong><strong>Učitelj – razmišljujoči praktik in raziskovalec lastne prakse</strong> – Maja Kukovec</p>
+<p><strong>11:40 – 12:10 </strong><strong>Ozaveščanje mladostnikovega etosa z literarno umetnostjo v sodobnem izobraževalnem konceptu </strong>– Adrijana Špacapan</p>
+<p><strong>12:10 – 12:40 </strong><strong>Induktivna vzgojna dimenzija književnosti pri pouku slovenščine v gimnaziji</strong> – Karmen Strel</p>
+<p><strong>12:40 – 15:00 </strong><em>Odmor za kosilo (izven dogodka)</em></p>
+<p><strong>15:00 – 15:30 </strong><strong>Izobraževanje otrok na domu v času epidemije covida-19 </strong>– Vesna Strlič</p>
+<p><strong>15:30 – 16:00 </strong><strong>Šolanje na daljavo v času pandemije covid-19 z vidika staršev </strong>– Tina Kolarič</p>
+<p><strong>16:00 – 16:30 </strong><strong>Biografsko učenje slovenskih izseljencev v Avstraliji: uporaba strategij tranzicijskega učenja</strong> – Alenka Tratnik</p>
+<p><strong>16:30 – 18:00 </strong><em>Odmor</em></p>
+<p><strong>18:00 – 19:00 </strong><strong>Doktorska kavarna</strong></p>
+<p> </p>
+-->
+<h3>Arhiv</h3>
+<table style="border-collapse: collapse; width: 38.8889%; font-size: 80%; height: 87.8594px;" border="1">
+<tbody>
+<tr style="height: 44.6094px;">
+<td class="align-center" style="width: 28.3422%; height: 44.6094px;"><strong>Leto</strong></td>
+<td style="width: 71.6578%; height: 44.6094px;"><strong>Program s povzetki</strong></td>
+</tr>
+<tr>
+<td style="width: 28.3422%;">2024</td>
+<td style="width: 71.6578%;"><a href="https://mare.github.io/pad/media/files/spad2024.pdf">PDF</a></td>
+</tr>
+<tr>
+<td style="width: 28.3422%;">2023</td>
+<td style="width: 71.6578%;"><a href="https://mare.github.io/pad/media/files/spad2023.pdf" title="šPAD 2023 - Program s povzetki" target="_blank" rel="noopener noreferrer">PDF</a></td>
+</tr>
+<tr style="height: 43.25px;">
+<td style="width: 28.3422%; height: 43.25px;">2021</td>
+<td style="width: 71.6578%; height: 43.25px;"><a href="https://mare.github.io/pad/media/files/spad2021.pdf" target="_blank" rel="noopener noreferrer">PDF</a></td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Album PAD 2024</title>
+        <author>
+            <name>Marko Radovan</name>
+        </author>
+        <link href="https://mare.github.io/pad/album-pad-2024/"/>
+        <id>https://mare.github.io/pad/album-pad-2024/</id>
+        <media:content url="https://mare.github.io/pad/media/posts/27/pad_album2.jpg" medium="image" />
+
+        <updated>2024-01-27T12:27:51+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://mare.github.io/pad/media/posts/27/pad_album2.jpg" alt="" />
+                    Dr. Vesna Podgornik, FF UL dr. Mojca Schlamberger Brezar, dekanja FF UL Dr. Klara Ermenc Skubic, FF UL Udeleleženci PAD Dr. Robi Kroflič, FF UL Dr. Katja Košir, FF UM dr. Lidija Radulović in dr. Olja Jovanović, FF, Beograd Dr. Danijela Brečko Udeleženci delavnice Okrogla&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://mare.github.io/pad/media/posts/27/pad_album2.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-01-large.jpg" data-size="1024x768"><img loading="lazy" src="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-01-large-thumbnail.webp" alt="" width="720" height="540"></a>
+<figcaption>Dr. Vesna Podgornik, FF UL</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-04-large.jpg" data-size="1024x768"><img loading="lazy" src="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-04-large-thumbnail.webp" alt="" width="720" height="540"></a>
+<figcaption>dr. Mojca Schlamberger Brezar, dekanja FF UL</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-08-large.jpg" data-size="1024x767"><img loading="lazy" src="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-08-large-thumbnail.webp" alt="" width="720" height="539"></a>
+<figcaption>Dr. Klara Ermenc Skubic, FF UL</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-17-large.jpg" data-size="1024x768"><img loading="lazy" src="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-17-large-thumbnail.webp" alt="" width="720" height="540"></a>
+<figcaption>Udeleleženci PAD</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-11-large.jpg" data-size="1024x768"><img loading="lazy" src="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-11-large-thumbnail.webp" alt="" width="720" height="540"></a>
+<figcaption>Dr. Robi Kroflič, FF UL</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-14-large.jpg" data-size="1024x768"><img loading="lazy" src="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-14-large-thumbnail.webp" alt="" width="720" height="540"></a>
+<figcaption>Dr. Katja Košir, FF UM</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-25-large.jpg" data-size="1024x768"><img loading="lazy" src="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-25-large-thumbnail.webp" alt="" width="720" height="540"></a>
+<figcaption>dr. Lidija Radulović in dr. Olja Jovanović, FF, Beograd</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-19-large.jpg" data-size="1024x768"><img loading="lazy" src="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-19-large-thumbnail.webp" alt="" width="720" height="540"></a>
+<figcaption>Dr. Danijela Brečko</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-22-large.jpg" data-size="1024x768"><img loading="lazy" src="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-22-large-thumbnail.webp" alt="" width="720" height="540"></a>
+<figcaption>Udeleženci delavnice</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-27-large.jpg" data-size="1024x768"><img loading="lazy" src="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-27-large-thumbnail.webp" alt="" width="720" height="540"></a>
+<figcaption>Okrogla miza</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-29-large.jpg" data-size="1024x768"><img loading="lazy" src="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-29-large-thumbnail.webp" alt="" width="720" height="540"></a>
+<figcaption>Okrogla miza</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-26-large.jpg" data-size="576x768"><img loading="lazy" src="https://mare.github.io/pad/media/posts/27/gallery/PAD-2024-26-large-thumbnail.webp" alt="" width="576" height="768"></a>
+<figcaption>Gradivo</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Album PAD 2023</title>
+        <author>
+            <name>Marko Radovan</name>
+        </author>
+        <link href="https://mare.github.io/pad/album-pad-2023/"/>
+        <id>https://mare.github.io/pad/album-pad-2023/</id>
+        <media:content url="https://mare.github.io/pad/media/posts/26/pad_naslovna.jpg" medium="image" />
+
+        <updated>2023-01-30T10:17:09+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://mare.github.io/pad/media/posts/26/pad_naslovna.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_01.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_01-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_02.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_02-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_03.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_03-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_04.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_04-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_05.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_05-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_06.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_06-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_07.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_07-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_08.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_08-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_09.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_09-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_10.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_10-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_11.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_11-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_12.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_12-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_13.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_13-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_14.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_14-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_15.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_15-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_16.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_16-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_17.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_17-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_18.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_18-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_19.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_19-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://mare.github.io/pad/media/posts/26/gallery/pad23_20.jpg" data-size="1024x683"><img loading="lazy" src="https://mare.github.io/pad/media/posts/26/gallery/pad23_20-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Album PAD 2021</title>
+        <author>
+            <name>Marko Radovan</name>
+        </author>
+        <link href="https://mare.github.io/pad/album-pad-2021/"/>
+        <id>https://mare.github.io/pad/album-pad-2021/</id>
+
+        <updated>2023-01-30T10:16:07+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Album PAD 2020</title>
+        <author>
+            <name>Marko Radovan</name>
+        </author>
+        <link href="https://mare.github.io/pad/album-pad-2020/"/>
+        <id>https://mare.github.io/pad/album-pad-2020/</id>
+
+        <updated>2023-01-30T10:15:58+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Album PAD 2019</title>
+        <author>
+            <name>Marko Radovan</name>
+        </author>
+        <link href="https://mare.github.io/pad/album-pad-2019/"/>
+        <id>https://mare.github.io/pad/album-pad-2019/</id>
+
+        <updated>2023-01-30T10:15:53+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Album PAD 2018</title>
+        <author>
+            <name>Marko Radovan</name>
+        </author>
+        <link href="https://mare.github.io/pad/album-pad-2018/"/>
+        <id>https://mare.github.io/pad/album-pad-2018/</id>
+
+        <updated>2023-01-30T10:15:48+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Album PAD 2017</title>
+        <author>
+            <name>Marko Radovan</name>
+        </author>
+        <link href="https://mare.github.io/pad/album-pad-2017/"/>
+        <id>https://mare.github.io/pad/album-pad-2017/</id>
+
+        <updated>2023-01-30T10:15:42+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

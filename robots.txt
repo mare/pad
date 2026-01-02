@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mare.github.io/pad/sitemap.xml
