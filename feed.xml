@@ -3,7 +3,7 @@
     <title>PAD</title>
     <link href="https://pad.si/feed.xml" rel="self" />
     <link href="https://pad.si" />
-    <updated>2026-11-22T10:30:24+01:00</updated>
+    <updated>2026-11-22T15:48:42+01:00</updated>
     <author>
         <name>Marko Radovan</name>
     </author>
@@ -38,7 +38,41 @@
 <figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_07.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_07-thumbnail.webp" alt="" width="720" height="480"></a></figure>
 <figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_05.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_05-thumbnail.webp" alt="" width="720" height="480"></a></figure>
 <figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_08.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_08-thumbnail.webp" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_09.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_09-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_09-2.jpg" data-size="1200x896"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_09-2-thumbnail.webp" alt="" width="720" height="538"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Album PAD 2025</title>
+        <author>
+            <name>Marko Radovan</name>
+        </author>
+        <link href="https://pad.si/album-pad-2024-2/"/>
+        <id>https://pad.si/album-pad-2024-2/</id>
+        <media:content url="https://pad.si/media/posts/37/banner25.jpg" medium="image" />
+
+        <updated>2026-11-21T20:19:36+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pad.si/media/posts/37/banner25.jpg" alt="" />
+                    PAD 2025: Od individualizma k skupnosti: je to še izziv?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pad.si/media/posts/37/banner25.jpg" class="type:primaryImage" alt="" /></p>
+                <h4>PAD 2025: Od individualizma k skupnosti: je to še izziv?</h4>
+<div class="gallery-wrapper"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
+<figure class="gallery__item"><a href="https://pad.si/media/posts/37/gallery/PAD25-02.jpg" data-size="1428x1071"><img loading="lazy" src="https://pad.si/media/posts/37/gallery/PAD25-02-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/37/gallery/PAD25-01.jpg" data-size="1428x1071"><img loading="lazy" src="https://pad.si/media/posts/37/gallery/PAD25-01-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/37/gallery/PAD25-03.jpg" data-size="1428x1071"><img loading="lazy" src="https://pad.si/media/posts/37/gallery/PAD25-03-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/37/gallery/PAD25-04.jpg" data-size="1428x1071"><img loading="lazy" src="https://pad.si/media/posts/37/gallery/PAD25-04-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/37/gallery/PAD25-05.png" data-size="637x478"><img loading="lazy" src="https://pad.si/media/posts/37/gallery/PAD25-05-thumbnail.webp" alt="" width="637" height="478"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/37/gallery/PAD25-06.jpg" data-size="1428x1071"><img loading="lazy" src="https://pad.si/media/posts/37/gallery/PAD25-06-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/37/gallery/PAD25-07.jpg" data-size="1008x756"><img loading="lazy" src="https://pad.si/media/posts/37/gallery/PAD25-07-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/37/gallery/PAD25-08-2.jpg" data-size="1008x756"><img loading="lazy" src="https://pad.si/media/posts/37/gallery/PAD25-08-2-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/37/gallery/PAD25-09.jpg" data-size="1066x800"><img loading="lazy" src="https://pad.si/media/posts/37/gallery/PAD25-09-thumbnail.webp" alt="" width="720" height="540"></a></figure>
 </div></div>
             ]]>
         </content>
