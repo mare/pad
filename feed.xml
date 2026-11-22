@@ -3,7 +3,7 @@
     <title>PAD</title>
     <link href="https://pad.si/feed.xml" rel="self" />
     <link href="https://pad.si" />
-    <updated>2026-11-22T15:48:42+01:00</updated>
+    <updated>2026-11-22T15:53:26+01:00</updated>
     <author>
         <name>Marko Radovan</name>
     </author>
@@ -155,18 +155,18 @@
         </author>
         <link href="https://pad.si/album-pad-2024/"/>
         <id>https://pad.si/album-pad-2024/</id>
-        <media:content url="https://pad.si/media/posts/27/pad_album2.jpg" medium="image" />
+        <media:content url="https://pad.si/media/posts/27/PAD2024_banner.jpg" medium="image" />
 
         <updated>2024-01-27T12:27:51+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://pad.si/media/posts/27/pad_album2.jpg" alt="" />
+                        <img src="https://pad.si/media/posts/27/PAD2024_banner.jpg" alt="" />
                     Dr. Vesna Podgornik, FF UL dr. Mojca Schlamberger Brezar, dekanja FF UL Dr. Klara Ermenc Skubic, FF UL Udeleleženci PAD Dr. Robi Kroflič, FF UL Dr. Katja Košir, FF UM dr. Lidija Radulović in dr. Olja Jovanović, FF, Beograd Dr. Danijela Brečko Udeleženci delavnice Okrogla&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pad.si/media/posts/27/pad_album2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://pad.si/media/posts/27/PAD2024_banner.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="4">
 <figure class="gallery__item"><a href="https://pad.si/media/posts/27/gallery/PAD-2024-01-large.jpg" data-size="1024x768"><img loading="lazy" src="https://pad.si/media/posts/27/gallery/PAD-2024-01-large-thumbnail.webp" alt="" width="720" height="540"></a>
 <figcaption>Dr. Vesna Podgornik, FF UL</figcaption>
