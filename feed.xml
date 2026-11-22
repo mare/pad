@@ -3,12 +3,46 @@
     <title>PAD</title>
     <link href="https://pad.si/feed.xml" rel="self" />
     <link href="https://pad.si" />
-    <updated>2026-01-04T10:33:34+01:00</updated>
+    <updated>2026-11-22T10:30:24+01:00</updated>
     <author>
         <name>Marko Radovan</name>
     </author>
     <id>https://pad.si</id>
 
+    <entry>
+        <title>Album PAD 2026</title>
+        <author>
+            <name>Marko Radovan</name>
+        </author>
+        <link href="https://pad.si/album-pad-2024-3/"/>
+        <id>https://pad.si/album-pad-2024-3/</id>
+        <media:content url="https://pad.si/media/posts/38/banner26.jpg" medium="image" />
+
+        <updated>2026-11-21T20:19:57+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pad.si/media/posts/38/banner26.jpg" alt="" />
+                    PAD 2026: Kakovost v vzgoji in izobraževanju za prihodnost vseh generacij
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pad.si/media/posts/38/banner26.jpg" class="type:primaryImage" alt="" /></p>
+                <h4>PAD 2026: Kakovost v vzgoji in izobraževanju za prihodnost vseh generacij</h4>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
+<figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_04.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_04-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_02.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_02-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_03.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_03-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_01.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_01-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_06.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_06-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_07.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_07-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_05.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_05-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_08.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_08-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://pad.si/media/posts/38/gallery/pad_2026_09.JPG" data-size="1024x683"><img loading="lazy" src="https://pad.si/media/posts/38/gallery/pad_2026_09-thumbnail.webp" alt="" width="720" height="480"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>šPAD</title>
         <author>
